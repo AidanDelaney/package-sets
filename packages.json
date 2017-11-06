@@ -291,6 +291,14 @@
     "repo": "https://github.com/purescript-contrib/purescript-drawing.git",
     "version": "v3.0.0"
   },
+  "dual-tree": {
+    "dependencies": [
+      "profunctor",
+      "foldable-traversable"
+    ],
+    "repo": "https://github.com/aidandelaney/purescript-dual-tree"
+    "version": "v0.0.2"
+  },
   "echarts": {
     "dependencies": [
       "colors",
