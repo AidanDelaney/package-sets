@@ -296,7 +296,7 @@
       "profunctor",
       "foldable-traversable"
     ],
-    "repo": "https://github.com/aidandelaney/purescript-dual-tree"
+    "repo": "https://github.com/aidandelaney/purescript-dual-tree",
     "version": "v0.0.2"
   },
   "echarts": {
